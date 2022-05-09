@@ -5,6 +5,7 @@ This repository contains the code supplement for the paper
 by Eckardt, Mateu and Greven (2022)
 
 **It provides**:
+
 Data collected from different sources on:
 * daily Covid-19 cases for 52 provinces 
 * daily weather characteristics
