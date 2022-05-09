@@ -13,6 +13,6 @@ Data collected from different sources on:
 * socio demographics and regional characteristics for 52 provinces
 * numbers/ proportions of smokers for the Spanish autonomous communities
 
-Shape file for Spain
+Shapefile for Spain
 
 
