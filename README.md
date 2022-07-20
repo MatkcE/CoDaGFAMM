@@ -12,6 +12,8 @@ Data collected from different sources on:
 * Age pyramids for 52 provinces
 * socio demographics and regional characteristics for 52 provinces
 * numbers/ proportions of smokers for the Spanish autonomous communities
-* Shapefile for Spain
+* Shapefile for Spain including provinces (Provincias) and communities (Comunidades Autónomas de España)
+
+R code to preprocess the data and estimate the model  
 
 
